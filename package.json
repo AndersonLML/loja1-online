@@ -12,6 +12,7 @@
     "@sanity/client": "^3.3.0",
     "@sanity/image-url": "^1.0.1",
     "@stripe/stripe-js": "^1.29.0",
+    "@vercel/analytics": "^1.1.1",
     "canvas-confetti": "^1.5.1",
     "next": "12.1.6",
     "next-sanity-image": "^3.2.1",
