@@ -8,10 +8,10 @@ const Layout = ({ children }) => {
   return (
     <div className="layout">
       <Head>
-        <title>SystemTec  - Produtos Eletrônicos</title>
+        <title>Distribuidor de Roupas</title>
         <meta
           name="Descrição"
-          content="Quebrando Ofertas - Ecommerce de Produtos Eletrônicos."
+          content="Quebrando Ofertas - Distribuidor de Roupas."
         />
         <link rel='icon' href='/zishop.ico' /> 
       </Head>
